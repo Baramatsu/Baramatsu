@@ -1,6 +1,9 @@
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Baramatsu&layout=compact)](https://github.com/Baramatsu/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Baramatsu&layout=compact)](https://github.com/Baramatsu/github-readme-stats)
-
+<a href="https://github.com/Baramatsu">
+  <img align="left" height="170px" src="https://github-readme-stats.vercel.app/api?username=Baramatsu&count_private=true&show_icons=true&theme=dracula" />
+</a>
+<a href="https://github.com/Baramatsu">
+  <img align="left" height="170px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Baramatsu&layout=compact&theme=dracula" />
+</a>
 
 <!--
 **Baramatsu/Baramatsu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
