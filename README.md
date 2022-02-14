@@ -1,9 +1,15 @@
+## Hello there. I 'm Baramatsu
+
+Hi there! I'm Masaru Matsubara, a student of Future University in Hakodate.
+- 🌱 I’m studying of python, and UI/UX.
+- ⚡ Fun fact: DARTs/Youtube/
+- 📫 How to reach me: @Baramatsu
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Baramatsu)](https://github.com/Baramatsu/github-readme-stats)
 <a href="https://github.com/Baramatsu">
-  <img align="left" height="170px" src="https://github-readme-stats.vercel.app/api?username=Baramatsu&count_private=true&show_icons=true&theme=dracula" />
+  <img align="left"  src="https://github-readme-stats.vercel.app/api?username=Baramatsu&count_private=true&show_icons=true" />
 </a>
-<a href="https://github.com/Baramatsu">
-  <img align="left" height="170px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Baramatsu&layout=compact&theme=dracula" />
-</a>
+
 
 <!--
 **Baramatsu/Baramatsu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
